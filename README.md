@@ -1,8 +1,9 @@
-# Hi, I'm Aisha 👋
 
-Electrical Engineering graduate (Computer & Control Systems)  
-Aspiring developer with strong interest in programming, electronics, and smart systems.
+# Hi, I'm Aisha 👋  
+Electrical Engineering Graduate | Embedded & IoT Developer  
 
+I design and build smart systems using Arduino, ESP8266, and modern programming tools.  
+Passionate about automation, control systems, and real-world problem solving.
 ---
 
 ## 🌱 About Me
